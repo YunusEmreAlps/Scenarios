@@ -1,4 +1,4 @@
-# ![Bandit Level 21](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit21.png?raw=true)
+# ![Bandit Level 21](https://github.com/YunusEmreAlps/Scenarios/blob/master/ctf-bandit/assets/Bandit21.png?raw=true)
 
 ---
 

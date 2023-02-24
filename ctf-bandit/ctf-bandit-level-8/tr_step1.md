@@ -1,4 +1,4 @@
-# ![Bandit Level 8](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit8.png?raw=true)
+# ![Bandit Level 8](https://github.com/YunusEmreAlps/Scenarios/blob/master/ctf-bandit/assets/Bandit8.png?raw=true)
 
 ---
 

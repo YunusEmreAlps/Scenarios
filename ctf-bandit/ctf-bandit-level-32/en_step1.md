@@ -1,4 +1,4 @@
-# ![Bandit Level 32](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit32.png?raw=true)
+# ![Bandit Level 32](https://github.com/YunusEmreAlps/Scenarios/blob/master/ctf-bandit/assets/Bandit32.png?raw=true)
 
 ---
 
