@@ -1,5 +1,4 @@
-
-# Bandit Seviye 17
+# ![Bandit Level 17](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit17.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviye için kimlik bilgileri, geçerli seviyenin şifresini *localh
 ``` {.sh}
   - Port scanner
 ```
-
-![Bandit Level 17](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit17.png)

@@ -1,5 +1,4 @@
-
-# Bandit Seviye 33
+# ![Bandit Level 33](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit33.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Tüm bu git işlerinden sonra başka bir kaçış zamanı. İyi şanlar!
 ``` {.sh}
   sh, man
 ```
-
-![Bandit Level 33](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit33.png)

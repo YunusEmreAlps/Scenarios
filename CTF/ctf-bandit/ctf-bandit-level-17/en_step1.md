@@ -1,4 +1,4 @@
-# Bandit Level 17
+# ![Bandit Level 17](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit17.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The credentials for the next level can be retrieved by submitting the password o
 ``` {.sh}
   - Port scanner on Wikipedia
 ```
-
-![Bandit Level 17](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit17.png)

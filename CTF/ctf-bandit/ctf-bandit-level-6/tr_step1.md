@@ -1,5 +1,4 @@
-
-# Bandit Seviye 6
+# ![Bandit Level 6](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit6.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin şifresi, *inhere* dizini altındaki bir dosyada saklanır
 ``` {.sh}
   ls , cd , cat , file , du , find
 ```
-
-![Bandit Level 6](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit6.png)

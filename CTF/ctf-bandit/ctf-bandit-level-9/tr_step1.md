@@ -1,5 +1,4 @@
-
-# Bandit Seviye 9
+# ![Bandit Level 2](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit9.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin parolası *data.txt* dosyasında saklanır ve yalnızca bi
 ``` {.sh}
     - Piping and Redirection
 ```
-
-![Bandit Level 9](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit9.png)

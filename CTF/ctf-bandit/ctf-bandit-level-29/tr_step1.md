@@ -1,5 +1,4 @@
-
-# Bandit Seviye 29
+# ![Bandit Level 29](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit29.png?raw=true)
 
 ---
 
@@ -19,5 +18,3 @@ Depoyu klonlayın ve bir sonraki seviye için şifreyi bulun.
 ``` {.sh}
   git
 ```
-
-![Bandit Level 29](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit29.png)

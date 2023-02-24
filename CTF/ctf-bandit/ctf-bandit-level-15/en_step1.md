@@ -1,4 +1,4 @@
-# Bandit Level 15
+# ![Bandit Level 15](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit15.png?raw=true)
 
 ---
 
@@ -27,5 +27,3 @@ The password for the next level can be retrieved by submitting the password of t
   - Ports
   - Port (computer networking) on Wikipedia
 ```
-
-![Bandit Level 15](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit15.png)

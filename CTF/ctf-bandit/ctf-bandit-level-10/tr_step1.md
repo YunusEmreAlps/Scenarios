@@ -1,5 +1,4 @@
-
-# Bandit Seviye 10
+# ![Bandit Level 10](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit10.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Bir sonraki düzeyin parolası, *data.txt dosyasında*, insan tarafından okunab
 ``` {.sh}
   grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 ```
-
-![Bandit Level 10](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit10.png)

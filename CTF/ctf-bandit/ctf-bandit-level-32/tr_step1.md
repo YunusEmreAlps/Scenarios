@@ -1,5 +1,4 @@
-
-# Bandit Seviye 32
+# ![Bandit Level 32](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit32.png?raw=true)
 
 ---
 
@@ -19,5 +18,3 @@ Depoyu klonlayın ve bir sonraki seviye için şifreyi bulun.
 ``` {.sh}
   git
 ```
-
-![Bandit Level 32](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit32.png)

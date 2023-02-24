@@ -1,4 +1,4 @@
-# Bandit Level 19
+# ![Bandit Level 19](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit19.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ The password for the next level is stored in a file *readme* in the homedirector
 ``` {.sh}
   ssh, ls, cat
 ```
-
-![Bandit Level 19](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit19.png)

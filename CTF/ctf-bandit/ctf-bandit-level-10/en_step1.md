@@ -1,4 +1,5 @@
-# Bandit Level 10
+# ![Bandit Level 10](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit10.png?raw=true)
+
 ---
 
 ## Level Goal
@@ -15,5 +16,3 @@ The password for the next level is stored in the file data.txt in one of the few
 ``` {.sh}
   grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 ```
-
-![Bandit Level 10](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit10.png)

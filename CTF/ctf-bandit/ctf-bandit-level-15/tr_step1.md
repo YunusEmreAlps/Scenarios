@@ -1,5 +1,4 @@
-
-# Bandit Seviye 15
+# ![Bandit Level 15](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit15.png?raw=true)
 
 ---
 
@@ -28,5 +27,3 @@ Bir sonraki seviyenin şifresi, geçerli seviyenin şifresini *localhost'ta 3000
   - Limanlar
   - Wikipedia'da bağlantı noktası (bilgisayar ağı)
 ```
-
-![Bandit Level 15](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit15.png)

@@ -1,4 +1,4 @@
-# Bandit Level 18
+# ![Bandit Level 18](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit18.png?raw=true)
 
 ---
 
@@ -18,5 +18,3 @@ There are 2 files in the homedirectory: *passwords.old and passwords.new*. The p
 ``` {.sh}
   cat, grep, ls, diff
 ```
-
-![Bandit Level 18](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit18.png)

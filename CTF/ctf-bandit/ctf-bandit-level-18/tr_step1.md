@@ -1,5 +1,4 @@
-
-# Bandit Seviye 18
+# ![Bandit Level 18](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit18.png?raw=true)
 
 ---
 
@@ -19,5 +18,3 @@ Ana dizinde 2 dosya vardır: *passwords.old ve passwords.new*. Bir sonraki seviy
 ``` {.sh}
   cat, grep, ls, diff
 ```
-
-![Bandit Level 18](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit18.png)

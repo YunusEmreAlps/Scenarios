@@ -1,5 +1,4 @@
-
-# Bandit Seviye 24
+# ![Bandit Level 24](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit24.png?raw=true)
 
 ---
 
@@ -21,5 +20,3 @@ Bir program, zamana dayalı iş planlayıcı olan *cron*'dan düzenli aralıklar
 ``` {.sh}
   cron, crontab, crontab(5) (use “man 5 crontab” to access this)
 ```
-
-![Bandit Level 24](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit24.png)

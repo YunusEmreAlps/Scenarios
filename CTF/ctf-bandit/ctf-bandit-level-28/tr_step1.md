@@ -1,5 +1,4 @@
-
-# Bandit Seviye 28
+# ![Bandit Level 28](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit28.png?raw=true)
 
 ---
 
@@ -19,5 +18,3 @@ Repoyu klonlayın ve bir sonraki seviye için şifreyi bulun.
 ``` {.sh}
   git
 ```
-
-![Bandit Level 28](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit28.png)

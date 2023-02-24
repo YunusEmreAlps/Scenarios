@@ -1,5 +1,4 @@
-
-# Bandit Seviye 23
+# ![Bandit Level 23](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit23.png?raw=true)
 
 ---
 
@@ -24,5 +23,3 @@ Bir sonraki seviyenin şifresi, ana dizinde bulunan bu dosya adında boşluk ad�
     - Google'da "kesikli dosya adı" için arama yapın
     - Gelişmiş Bash Komut Dosyası Kılavuzu - Bölüm 3 - Özel Karakterler
 ```
-
-![Bandit Level 23](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit23.png)

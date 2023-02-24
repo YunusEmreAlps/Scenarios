@@ -1,4 +1,4 @@
-# Bandit Level 9
+# ![Bandit Level 9](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit9.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored in the file data.txt and is the only l
 ``` {.sh}
   - Piping and Redirection
 ```
-
-![Bandit Level 9](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit9.png)

@@ -1,4 +1,4 @@
-# Bandit Level 26
+# ![Bandit Level 26](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit26.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 ``` {.sh}
   ssh, cat, more, vi, ls, id, pwd
 ```
-
-![Bandit Level 26](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit26.png)

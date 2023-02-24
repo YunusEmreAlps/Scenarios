@@ -1,4 +1,4 @@
-# Bandit Level 28
+# ![Bandit Level 28](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit28.png?raw=true)
 
 ---
 
@@ -18,5 +18,3 @@ Clone the repository and find the password for the next level.
 ``` {.sh}
   git
 ```
-
-![Bandit Level 28](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit28.png)

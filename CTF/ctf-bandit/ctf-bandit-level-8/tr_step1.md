@@ -1,5 +1,4 @@
-
-# Bandit Seviye 8
+# ![Bandit Level 8](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit8.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Bir sonraki seviyenin şifresi, data.txt dosyasında milyonuncu(millionth) kelim
 ``` {.sh}
   man, grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 ```
-
-![Bandit Level 8](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit8.png)

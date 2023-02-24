@@ -1,5 +1,4 @@
-
-# Bandit Seviye 14
+# ![Bandit Level 14](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit14.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin şifresi */etc/bandit_pass/bandit14 içinde saklanır ve s
 ``` {.sh}
     - SSH/OpenSSH/Keys
 ```
-
-![Bandit Level 14](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit14.png)

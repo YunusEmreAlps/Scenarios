@@ -1,5 +1,4 @@
-
-# Bandit Seviye 20
+# ![Bandit Level 20](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit20.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Bir sonraki seviyeye erişmek için ana dizinde setuid ikilisini kullanmalısın
 ``` {.sh}
     - setuid
 ```
-
-![Bandit Level 20](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit20.png)

@@ -1,5 +1,4 @@
-
-# Bandit Seviye 26
+# ![Bandit Level 26](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit26.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ bandit25'ten bandit26'ya giriş yapmak oldukça kolay olmalı… bandit26 kullan
 ``` {.sh}
   ssh, cat, more, vi, ls, id, pwd
 ```
-
-![Bandit Level 26](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit26.png)

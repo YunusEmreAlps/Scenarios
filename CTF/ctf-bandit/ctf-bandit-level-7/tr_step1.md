@@ -1,5 +1,4 @@
-
-# Bandit Seviye 7
+# ![Bandit Level 7](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit7.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin şifresi sunucuda bir yerde saklanır ve aşağıdaki öze
 ``` {.sh}
   ls , cd , cat , file , du , find , grep
 ```
-
-![Bandit Level 7](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit7.png)

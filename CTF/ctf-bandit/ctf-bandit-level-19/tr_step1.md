@@ -1,5 +1,4 @@
-
-# Bandit Seviye 19
+# ![Bandit Level 19](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit19.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Bir sonraki seviyenin şifresi, giriş dizinindeki *reamde* dosyasında saklanı
 ``` {.sh}
   ssh, ls, cat
 ```
-
-![Bandit Level 19](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit19.png)

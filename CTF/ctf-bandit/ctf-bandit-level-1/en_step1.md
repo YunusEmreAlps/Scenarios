@@ -1,4 +1,4 @@
-# Bandit Level 0
+# ![Bandit Level 0](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit0.png?raw=true)
 
 ---
 
@@ -18,5 +18,3 @@ The goal of this level is for you to log into the game using SSH. The host to wh
   - Secure Shell (SSH) on Wikipedia
   - How to use SSH on wikiHow
 ```
-
-![Bandit Level 0](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit0.png)

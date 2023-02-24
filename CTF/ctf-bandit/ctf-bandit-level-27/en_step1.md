@@ -1,4 +1,4 @@
-# Bandit Level 27
+# ![Bandit Level 27](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit27.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ Good job getting a shell! Now hurry and grab the password for bandit27!
 ``` {.sh}
   ls
 ```
-
-![Bandit Level 27](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit27.png)

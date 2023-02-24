@@ -1,4 +1,4 @@
-# Bandit Level 7
+# ![Bandit Level 7](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit7.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored *somewhere on the server* and has all 
 ``` {.sh}
   ls , cd , cat , file , du , find , grep
 ```
-
-![Bandit Level 7](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit7.png)

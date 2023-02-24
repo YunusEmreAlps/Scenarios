@@ -1,5 +1,4 @@
-
-# Bandit Seviye 11
+# ![Bandit Level 11](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit11.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin parolası, base64 ile kodlanmış verileri içeren *data.t
 ``` {.sh}
     - Base64
 ```
-
-![Bandit Level 11](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit11.png)

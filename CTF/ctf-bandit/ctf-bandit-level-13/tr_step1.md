@@ -1,5 +1,4 @@
-
-# Bandit Seviye 13
+# ![Bandit Level 13](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit13.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki düzeyin parolası, art arda sıkıştırılmış bir dosyanın hexd
 ``` {.sh}
     - Hex dump on Wikipedia
 ```
-
-![Bandit Level 13](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit13.png)

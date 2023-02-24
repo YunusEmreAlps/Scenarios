@@ -1,4 +1,4 @@
-# Bandit Level 20
+# ![Bandit Level 20](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit20.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ To gain access to the next level, you should use the setuid binary in the homedi
 ``` {.sh}
   - setuid on Wikipedia
 ```
-
-![Bandit Level 20](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit20.png)

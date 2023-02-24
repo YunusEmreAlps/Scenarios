@@ -1,5 +1,4 @@
-
-# Bandit Seviye 2
+# ![Bandit Level 2](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit2.png?raw=true)
 
 ---
 
@@ -24,5 +23,3 @@ Bir sonraki seviyenin şifresi, ana dizinde bulunan "-" adlı bir dosyada saklan
     - Google'da "kesikli dosya adı" için arama yapın
     - Gelişmiş Bash Komut Dosyası Kılavuzu - Bölüm 3 - Özel Karakterler
 ```
-
-![Bandit Level 2](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit2.png)

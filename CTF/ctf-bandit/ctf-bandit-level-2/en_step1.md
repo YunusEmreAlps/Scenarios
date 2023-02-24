@@ -1,4 +1,4 @@
-# Bandit Level 2
+# ![Bandit Level 2](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit2.png?raw=true)
 
 ---
 
@@ -23,5 +23,3 @@ The password for the next level is stored in a file called "-" located in the ho
   - Google Search for “dashed filename”
   - Advanced Bash-scripting Guide - Chapter 3 - Special Characters
 ```
-
-![Bandit Level 2](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit2.png)

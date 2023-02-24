@@ -1,4 +1,4 @@
-# Bandit Level 33
+# ![Bandit Level 33](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit33.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ After all this git stuff its time for another escape. Good luck!
 ``` {.sh}
   sh, man
 ```
-
-![Bandit Level 33](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit33.png)

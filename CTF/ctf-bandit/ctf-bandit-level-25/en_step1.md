@@ -1,4 +1,4 @@
-# Bandit Level 25
+# ![Bandit Level 25](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit25.png?raw=true)
 
 ---
 
@@ -11,5 +11,3 @@ You do not need to create new connections each time
   - Host: bandit.labs.overthewire.org
   - Port: 2220
 ```
-
-![Bandit Level 25](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit25.png)

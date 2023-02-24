@@ -1,4 +1,4 @@
-# Bandit Level 14
+# ![Bandit Level 14](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit14.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored in */etc/bandit_pass/bandit14 and can 
 ``` {.sh}
   - SSH/OpenSSH/Keys
 ```
-
-![Bandit Level 14](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit14.png)

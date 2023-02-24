@@ -1,4 +1,4 @@
-# Bandit Level 21
+# ![Bandit Level 21](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit21.png?raw=true)
 
 ---
 
@@ -18,5 +18,3 @@ NOTE: Try connecting to your own network daemon to see if it works as you think
 ``` {.sh}
   ssh, nc, cat, bash, screen, tmux, Unix ‘job control’ (bg, fg, jobs, &, CTRL-Z, …)
 ```
-
-![Bandit Level 21](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit21.png)

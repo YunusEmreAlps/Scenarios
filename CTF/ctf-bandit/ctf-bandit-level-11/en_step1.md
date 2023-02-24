@@ -1,4 +1,4 @@
-# Bandit Level 11
+# ![Bandit Level 11](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit11.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored in the file *data.txt*, which contains
 ``` {.sh}
   - Base64 on Wikipedia
 ```
-
-![Bandit Level 11](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit11.png)

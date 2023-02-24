@@ -1,4 +1,4 @@
-# Bandit Level 13
+# ![Bandit Level 13](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit13.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored in the file data.txt, which is a hexdu
 ``` {.sh}
   - Hex dump on Wikipedia
 ```
-
-![Bandit Level 13](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit13.png)

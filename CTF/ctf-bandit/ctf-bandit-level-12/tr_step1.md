@@ -1,5 +1,4 @@
-
-# Bandit Seviye 12
+# ![Bandit Level 12](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit12.png?raw=true)
 
 ---
 
@@ -23,5 +22,3 @@ Bir sonraki seviyenin parolası, tüm küçük (a-z) ve büyük (A-Z) harflerin 
 ``` {.sh}
     - Rot13
 ```
-
-![Bandit Level 12](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit12.png)

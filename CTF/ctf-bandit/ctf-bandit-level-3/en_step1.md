@@ -1,4 +1,4 @@
-# Bandit Level 3
+# ![Bandit Level 3](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit3.png?raw=true)
 
 ---
 
@@ -22,5 +22,3 @@ The password for the next level is stored in a file called spaces in this filena
 ``` {.sh}
   - Google Search for “spaces in filename”
 ```
-
-![Bandit Level 3](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit3.png)

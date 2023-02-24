@@ -1,4 +1,4 @@
-# Bandit Level 23
+# ![Bandit Level 23](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit23.png?raw=true)
 
 ---
 
@@ -18,5 +18,3 @@ NOT: Başkaları tarafından yazılan kabuk betiklerine bakmak çok yararlı bir
 ``` {.sh}
   cron, crontab, crontab(5) (use “man 5 crontab” to access this)
 ```
-
-![Bandit Level 23](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit23.png)

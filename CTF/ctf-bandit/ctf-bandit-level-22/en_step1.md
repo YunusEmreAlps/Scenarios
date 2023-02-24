@@ -1,4 +1,4 @@
-# Bandit Level 22
+# ![Bandit Level 22](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit22.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ A program is running automatically at regular intervals from *cron*, the time-ba
 ``` {.sh}
   cron, crontab, crontab(5) (use “man 5 crontab” to access this)
 ```
-
-![Bandit Level 22](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit22.png)

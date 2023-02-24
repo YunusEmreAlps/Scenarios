@@ -1,4 +1,4 @@
-# Bandit Level 1
+# ![Bandit Level 1](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit1.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ The password for the next level is stored in a file called readme located in the
 ``` {.sh}
   ls , cd , cat , file , du , find
 ```
-
-![Bandit Level 1](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit1.png)

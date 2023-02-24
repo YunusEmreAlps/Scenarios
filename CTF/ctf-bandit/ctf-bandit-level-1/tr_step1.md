@@ -1,5 +1,4 @@
-
-# Bandit Seviye 0
+# ![Bandit Level 0](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit0.png?raw=true)
 
 ---
 
@@ -21,5 +20,3 @@ Bu seviyenin amacı, oyuna SSH kullanarak giriş yapmanızdır. Bağlanmanız ge
     - Wikipedia'da Güvenli Kabuk (SSH)
     - wikiHow'da SSH nasıl kullanılır?
 ```
-
-![Bandit Level 0](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit0.png)

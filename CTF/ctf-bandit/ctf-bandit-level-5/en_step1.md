@@ -1,4 +1,4 @@
-# Bandit Level 5
+# ![Bandit Level 5](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit5.png?raw=true)
 
 ---
 
@@ -16,5 +16,3 @@ The password for the next level is stored in the only human-readable file in the
 ``` {.sh}
   ls , cd , cat , file , du , find
 ```
-
-![Bandit Level 5](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit5.png)

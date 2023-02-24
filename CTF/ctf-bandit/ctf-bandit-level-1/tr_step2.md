@@ -1,5 +1,4 @@
-
-# Bandit Seviye 1
+# ![Bandit Level 1](https://github.com/YunusEmreAlps/Scenarios/blob/master/CTF/ctf-bandit/Bandit%20Assets/Bandit1.png?raw=true)
 
 ---
 
@@ -17,5 +16,3 @@ Bir sonraki seviyenin şifresi, ana dizinde bulunan readme adlı bir dosyada sak
 ``` {.sh}
   ls , cd , cat , file , du , find
 ```
-
-![Bandit Level 1](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit0.png)
