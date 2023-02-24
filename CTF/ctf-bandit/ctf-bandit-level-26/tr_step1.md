@@ -1,0 +1,21 @@
+
+# Bandit Seviye 26
+
+---
+
+## Seviye Hedefi
+
+bandit25'ten bandit26'ya giriş yapmak oldukça kolay olmalı… bandit26 kullanıcısının kabuğu */bin/bash* değil, başka bir şey. Ne olduğunu, nasıl çalıştığını ve ondan nasıl kurtulacağınızı öğrenin.
+
+``` {.sh}
+  - Host: bandit.labs.overthewire.org
+  - Port: 2220
+```
+
+### Bu seviyeyi çözmek için ihtiyaç duyabileceğiniz komutlar
+
+``` {.sh}
+  ssh, cat, more, vi, ls, id, pwd
+```
+
+![Bandit Level 26](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit26.png)

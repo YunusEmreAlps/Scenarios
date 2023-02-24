@@ -1,0 +1,21 @@
+
+# Bandit Seviye 3
+
+---
+
+## Seviye Hedefi
+
+Bir sonraki seviyenin şifresi, *inhere* dizinindeki insanlar tarafından okunabilen tek dosyada saklanır. Terminaliniz bozuksa, "sıfırla" komutunu deneyin.
+
+``` {.sh}
+  - Host: bandit.labs.overthewire.org
+  - Port: 2220
+```
+
+### Bu seviyeyi çözmek için ihtiyaç duyabileceğiniz komutlar
+
+``` {.sh}
+  ls , cd , cat , file , du , find
+```
+
+![Bandit Level 5](https://cdn.bulutbilisimciler.com/public/images/bandit/Bandit5.png)
