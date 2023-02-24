@@ -2,7 +2,7 @@
 <pre>
   <b>Scenarios</b>
     |__ctf-bandit
-       |__Assets
+       |__assets
        |__ctf-bandit-level-1
        |__ctf-bandit-level-2
        |__ctf-bandit-level-3
